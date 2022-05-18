@@ -2,6 +2,10 @@
   max-width: 960px;
 }
 
+.contrast{
+  color: #0b5fb1;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
